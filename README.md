@@ -5,7 +5,7 @@
     I am currently working at the INS Institute for Networked Solutions at the OST – Eastern Switzerland University of Applied Sciences.
     At the moment I am focusing on the development of network applications in the field of Segement Routing.
     <br /><br />
-    For more information about the projects I am involved, check out my website <a href="https://www.michelbongard.ch/" rel="noopener noreferrer" target="_blank">michelbongard.ch</a>.
+    For more information about the projects I am involved, check out my website <a href="https://www.michelbongard.ch/">michelbongard.ch</a>.
   </samp>
   <br /><br />
 </p>
