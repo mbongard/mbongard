@@ -2,10 +2,9 @@
   <samp>
     Hi! My name is Michel, I am a full-stack software engineer from Switzerland.
     <br /><br />
-    I am currently working at the INS Institute for Networked Solutions at the OST – Eastern Switzerland University of Applied Sciences.
-    At the moment I am focusing on the development of network applications in the field of Segement Routing.
+    I am currently working for <a href="https://www.hostpoint.ch/">Hostpoint</a>, where I am using Java & Angular.
     <br /><br />
-    For more information about the projects I am involved in, check out my website <a href="https://www.michelbongard.ch/">michelbongard.ch</a>.
+    For more information about the projects I was involved in, check out my website <a href="https://www.michelbongard.ch/">michelbongard.ch</a>.
   </samp>
   <br /><br />
 </p>
